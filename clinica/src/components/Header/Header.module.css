@@ -194,7 +194,7 @@
 }
 
 .ulSmenu a:hover {
-  color:#000000
+  color:#ffffff
 }
 
 .linkSmenu {
@@ -223,7 +223,7 @@ transition: 1s;
 
 .ulSmenuDesktop a {
 display: block;
-color: #000000;
+color: #60beba;
 text-decoration: none;
 }
 
